@@ -13,5 +13,8 @@
         "ES"
     ],
     "author": "Tomokoo",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.4.3"
+    }
 }
