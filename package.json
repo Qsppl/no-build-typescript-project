@@ -16,5 +16,9 @@
     "license": "ISC",
     "devDependencies": {
         "typescript": "^5.4.3"
+    },
+    "dependencies": {
+        "hybrids": "^8.2.14",
+        "just-intersect": "^4.3.0"
     }
 }
