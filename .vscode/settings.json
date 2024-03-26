@@ -1,5 +1,8 @@
 {
     "files.eol": "\n",
+    "javascript.format.semicolons": "remove",
+    "typescript.format.semicolons": "remove",
+    "explorer.copyRelativePathSeparator": "/",
     "javascript.preferences.importModuleSpecifierEnding": "js",
     "typescript.preferences.importModuleSpecifierEnding": "js",
     "terminal.integrated.automationProfile.windows": {
