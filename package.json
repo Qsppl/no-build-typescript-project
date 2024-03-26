@@ -1,0 +1,17 @@
+{
+    "name": "no-build-typescript-project",
+    "module": "true",
+    "version": "1.0.0",
+    "description": "This working environment is configured in such a way that it is convenient to write a project in which all the tasks previously solved by the project builders (webpuck, vite, deno, BUN) are solved by modern ES functions, HTTP-API and IDE.",
+    "main": "",
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "no-build",
+        "ESM",
+        "ES"
+    ],
+    "author": "Tomokoo",
+    "license": "ISC"
+}
