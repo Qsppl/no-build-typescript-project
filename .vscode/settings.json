@@ -5,7 +5,10 @@
     "explorer.copyRelativePathSeparator": "/",
     "javascript.preferences.importModuleSpecifierEnding": "js",
     "typescript.preferences.importModuleSpecifierEnding": "js",
+    // "typescript.tsdk": "node_modules/typescript/lib", - may be necessary if VSCode uses native/global tsdk
+    // windows task manager fix
     "terminal.integrated.automationProfile.windows": {
         "path": "C:/Windows/System32/cmd.exe"
-    }
+    },
+    "task.allowAutomaticTasks": "on",
 }
