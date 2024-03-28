@@ -13,6 +13,6 @@
     },
     "task.allowAutomaticTasks": "on",
     "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.expand": true,
+    "explorer.fileNesting.expand": false,
     "liveServer.settings.port": 5501,
 }
