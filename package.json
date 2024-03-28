@@ -5,7 +5,7 @@
     "description": "This working environment is configured in such a way that it is convenient to write a project in which all the tasks previously solved by the project builders (webpuck, vite, deno, BUN) are solved by modern ES functions, HTTP-API and IDE.",
     "main": "",
     "scripts": {
-        "test": ""
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "no-build",
