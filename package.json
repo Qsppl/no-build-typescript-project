@@ -5,7 +5,8 @@
     "description": "This working environment is configured in such a way that it is convenient to write a project in which all the tasks previously solved by the project builders (webpuck, vite, deno, BUN) are solved by modern ES functions, HTTP-API and IDE.",
     "main": "",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "live-server --verbose"
     },
     "keywords": [
         "no-build",
@@ -19,6 +20,7 @@
         "@typescript-eslint/parser": "^7.4.0",
         "eslint": "^8.57.0",
         "eslint-config-prettier": "^9.1.0",
+        "live-server": "^1.2.2",
         "prettier": "3.2.5",
         "typescript": "^5.4.3"
     },

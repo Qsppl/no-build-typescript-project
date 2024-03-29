@@ -34,11 +34,7 @@ import { some } from "my-module.js"
 ## Example:
 Here's how stackblitz opened this repository: https://stackblitz.com/~/github.com/Qsppl/no-build-typescript-project
 
-Install the necessary extensions:
-
-![image](https://github.com/Qsppl/no-build-typescript-project/assets/22717464/dcfd486b-aba5-42a1-b859-27fc2b34c34a)
-
-No additional actions were required, stackblitz installed the npm packages itself. Let's see the result:
+No additional actions were required, it just works:
 
 ![stackblitz com_~_github com_Qsppl_no-build-typescript-project (1)](https://github.com/Qsppl/no-build-typescript-project/assets/22717464/00e88187-289b-40e3-b623-a8145eb129db)
 

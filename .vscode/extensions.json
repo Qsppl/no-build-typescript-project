@@ -4,7 +4,6 @@
         "esbenp.prettier-vscode",
         "rvest.vs-code-prettier-eslint",
         "dbaeumer.vscode-eslint",
-        "yoavbls.pretty-ts-errors",
-        "ritwickdey.liveserver"
+        "yoavbls.pretty-ts-errors"
     ]
 }
