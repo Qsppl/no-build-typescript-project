@@ -6,7 +6,8 @@
     "main": "",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "serve": "live-server --verbose"
+        "serve": "live-server --verbose",
+        "postinstall": "live-server --verbose"
     },
     "keywords": [
         "no-build",
