@@ -2,8 +2,6 @@
     "recommendations": [
         "editorconfig.editorconfig",
         "esbenp.prettier-vscode",
-        "rvest.vs-code-prettier-eslint",
-        "dbaeumer.vscode-eslint",
         "yoavbls.pretty-ts-errors"
     ]
 }

@@ -1,7 +1,4 @@
 {
-    "files.eol": "\n",
-    "javascript.format.semicolons": "remove",
-    "typescript.format.semicolons": "remove",
     // for native browser imports
     "javascript.preferences.importModuleSpecifierEnding": "js",
     // for native browser imports
@@ -14,4 +11,5 @@
     "task.allowAutomaticTasks": "on",
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.expand": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
 }
