@@ -2,6 +2,9 @@
     "recommendations": [
         "editorconfig.editorconfig",
         "esbenp.prettier-vscode",
-        "yoavbls.pretty-ts-errors"
+        "rvest.vs-code-prettier-eslint",
+        "dbaeumer.vscode-eslint",
+        "bashmish.es6-string-css",
+        "tobermory.es6-string-html"
     ]
 }
