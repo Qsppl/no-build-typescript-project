@@ -33,7 +33,7 @@
             "https://esm.sh/just-intersect@4.3.0": [
                 "./node_modules/just-intersect/index"
             ],
-            "https://esm.sh/hybrids@8.2.14": [
+            "https://esm.sh/hybrids@8.2.15": [
                 "./node_modules/hybrids/types/index"
             ],
         },

@@ -23,7 +23,7 @@
         "typescript": "^5.4.3"
     },
     "dependencies": {
-        "hybrids": "^8.2.14",
+        "hybrids": "^8.2.15",
         "just-intersect": "^4.3.0"
     }
 }
